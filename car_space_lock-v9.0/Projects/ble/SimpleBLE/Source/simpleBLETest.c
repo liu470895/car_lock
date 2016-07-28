@@ -582,10 +582,10 @@ HCI_EXT_ClkDivOnHaltCmd( HCI_EXT_ENABLE_CLK_DIVIDE_ON_HALT );
   //rf470m  init
   LSD_RF_Init(frefunction1);
 
-  // Setup a delayed profile startup
+  //Setup a delayed profile startup
   osal_set_event( simpleBLEPeripheral_TaskID, SBP_START_DEVICE_EVT );
   
-  // 启动看门狗， 定是1000ms， 1000ms内需要喂狗， 否则就重启了
+  //启动看门狗， 定是1000ms， 1000ms内需要喂狗， 否则就重启了
  // HAL_SYSTEM_WATCH_DOG_1000MS(); 
 }
 
@@ -703,7 +703,6 @@ static void simpleBLEPeripheral_ProcessOSALMsg( osal_event_hdr_t *pMsg )
       break;
   #endif // #if defined( CC2540_MINIDK )
   default:
-    // do nothing
     break;
   }
 }
