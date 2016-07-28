@@ -1,0 +1,67 @@
+[DebugChecksum]
+Checksum=-70101704
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Count=0
+[ChipconEmu]
+Stop timers on halt=0
+Leave target running=1
+[Aliases]
+A0=_ "C:\Documents and Settings\Administrator\桌面\car_space_lockc-v2\car_space_lockc-v2\Components\hal\target\CC2540EB\hal_aes.c" ""
+A1=_ "C:\Users\Administrator\Desktop\car_space_lock-v3.7\car_space_lock-v3.7\Projects\ble\SimpleBLE\Source\SimpleBLETest_Main.c" ""
+A2=_ "C:\Users\Administrator\Desktop\car_space_lock-v4.2\car_space_lock-v4.2\Projects\ble\SimpleBLE\Source\SimpleBLETest_Main.c" ""
+A3=_ "C:\Users\Administrator\Desktop\car_space_lock-v4.4-1\Projects\ble\SimpleBLE\Source\SimpleBLETest_Main.c" ""
+A4=_ "C:\Users\Administrator\Desktop\car_space_lock-v4.4\car_space_lock-v4.4\Projects\ble\SimpleBLE\Source\SimpleBLETest_Main.c" ""
+A5=_ "C:\Users\Administrator\Desktop\car_space_lock-v5.7\car_space_lock-v5.7\Projects\ble\SimpleBLE\Source\SimpleBLETest_Main.c" ""
+A6=_ "C:\Users\Administrator\Desktop\car_space_lock-v7.1\Projects\ble\SimpleBLE\Source\SimpleBLETest_Main.c" ""
+A7=_ "C:\Users\Administrator\Desktop\car_space_lock-v8.7 ok\Projects\ble\SimpleBLE\Source\SimpleBLETest_Main.c" ""
+A8=_ "C:\Users\liu\Desktop\CAR_PARKING\BLE-CC254x-1.3.2-OSAL\BLE-CC254x-1.3.2-OSAL\car_space_lock\Projects\ble\SimpleBLE\Source\SimpleBLETest_Main.c" ""
+A9=_ "C:\Users\liu\Desktop\car_space_lock-v4.1\Projects\ble\SimpleBLE\Source\SimpleBLETest_Main.c" ""
+A10=_ "C:\Users\liu\Desktop\car_space_lock\Components\hal\target\CC2540EB\hal_aes.c" ""
+A11=_ "C:\Users\liu\Desktop\car_space_lockc-v2.10000\Projects\ble\SimpleBLE\Source\SimpleBLETest_Main.c" ""
+A12=_ "C:\Users\liu\Desktop\car_space_lockc-v2.1\Projects\ble\SimpleBLE\Source\SimpleBLETest_Main.c" ""
+A13=_ "C:\Users\liu\Desktop\car_space_lockc-v3.2\car_space_lockc-v3.2\car_space_lockc-v2.85\Projects\ble\Profiles\Roles\gap.c" ""
+A14=_ "C:\Users\liu\Desktop\car_space_lockc-v3.2\car_space_lockc-v3.2\car_space_lockc-v2.85\Projects\ble\SimpleBLE\Source\SimpleBLETest_Main.c" ""
+A15=_ "D:\BLE\中级实验教程-自编辑不发布\OSAL操作系统-实验06 串口输出\BLE-CC254x-1.3.2-OSAL\Components\hal\target\CC2540EB\hal_aes.c" ""
+A16=_ "D:\BLE\中级实验教程-自编辑不发布\OSAL操作系统-实验06 串口输出\BLE-CC254x-1.3.2-OSAL\Components\hal\target\CC2540EB\hal_dma.c" ""
+A17=_ "D:\BLE\中级实验教程-自编辑不发布\OSAL操作系统-实验06 串口输出\BLE-CC254x-1.3.2-OSAL\Components\osal\common\OSAL_PwrMgr.c" ""
+A18=_ "D:\BLE\中级实验教程-自编辑不发布\OSAL操作系统-实验06 串口输出\BLE-CC254x-1.3.2-OSAL\Projects\ble\SimpleBLE\Source\OSAL_SimpleBLETest.c" ""
+A19=_ "D:\BLE\中级实验教程-自编辑不发布\OSAL操作系统-实验06 串口输出\BLE-CC254x-1.3.2-OSAL\Projects\ble\SimpleBLE\Source\SimpleBLETest_Main.c" ""
+A20=_ "D:\BaiduYunDownload\car_space_lock-v5.6\Projects\ble\SimpleBLE\Source\SimpleBLETest_Main.c" ""
+A21=_ "D:\BaiduYunDownload\car_space_lockc-v2.85\car_space_lockc-v2.85\Projects\ble\SimpleBLE\Source\SimpleBLETest_Main.c" ""
+A22=_ "E:\BLE\中级实验教程-自编辑不发布\OSAL操作系统-实验01 OSAL初探\BLE-CC254x-1.3.2-OSAL\Components\hal\target\CC2540EB\hal_adc.c" ""
+A23=_ "E:\BLE\中级实验教程-自编辑不发布\OSAL操作系统-实验01 OSAL初探\BLE-CC254x-1.3.2-OSAL\Components\hal\target\CC2540EB\hal_aes.c" ""
+A24=_ "E:\BLE\中级实验教程-自编辑不发布\OSAL操作系统-实验01 OSAL初探\BLE-CC254x-1.3.2-OSAL\Components\osal\common\OSAL_PwrMgr.c" ""
+A25=_ "G:\BLE\OSAL\OSAL操作系统-实验07 串口双工收发\BLE-CC254x-1.3.2-OSAL\Components\hal\target\CC2540EB\hal_aes.c" ""
+A26=_ "G:\BLE\OSAL\OSAL操作系统-实验07 串口双工收发\BLE-CC254x-1.3.2-OSAL\Components\hal\target\CC2540EB\hal_dma.c" ""
+A27=_ "G:\BLE\OSAL\OSAL操作系统-实验07 串口双工收发\BLE-CC254x-1.3.2-OSAL\Components\hal\target\CC2540EB\hal_startup.c" ""
+A28=_ "G:\BLE\OSAL\OSAL操作系统-实验07 串口双工收发\BLE-CC254x-1.3.2-OSAL\Components\osal\common\OSAL.c" ""
+A29=_ "G:\BLE\OSAL\OSAL操作系统-实验07 串口双工收发\BLE-CC254x-1.3.2-OSAL\Components\osal\common\OSAL_PwrMgr.c" ""
+A30=_ "G:\BLE\OSAL\OSAL操作系统-实验07 串口双工收发\BLE-CC254x-1.3.2-OSAL\Projects\ble\Profiles\Roles\peripheral.c" ""
+A31=_ "G:\BLE\OSAL\OSAL操作系统-实验07 串口双工收发\BLE-CC254x-1.3.2-OSAL\Projects\ble\SimpleBLE\Source\OSAL_SimpleBLETest.c" ""
+A32=_ "G:\BLE\OSAL\OSAL操作系统-实验07 串口双工收发\BLE-CC254x-1.3.2-OSAL\Projects\ble\SimpleBLE\Source\SimpleBLETest_Main.c" ""
+Count=33
+SuppressDialog=1
